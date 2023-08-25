@@ -320,7 +320,7 @@ root@biocolab-server:/var/log/atop#
 <img alt="gcp" src="/pic/atopr.png" class="lazy" width="100%"> 
 
 :o: Press **t** to read log based on time intervals.
-:o: Press **ctrl + t** to exit from this window.
+:o: Press **ctrl + c** to exit from this window.
 
 :arrow_right: We are having two ways to set up log rotation.
 :one: logrotate
